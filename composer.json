@@ -1,0 +1,15 @@
+{
+    "name": "tarun/adlal-plugin",
+    "autoload": {
+        "psr-4": {
+            "Tarun\\AdlalPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tarun Chauhan",
+            "email": "coding.tarun@gmail.com"
+        }
+    ],
+    "require": {}
+}
